@@ -1,2 +1,2 @@
 # asko-ai
-A simple chat app that 
+Aşkolar o kadar tekdüzeydi ki ai yaptım
